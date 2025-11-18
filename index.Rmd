@@ -1,0 +1,19 @@
+---
+title: "Video"
+--- 
+<br>
+<br>
+<br>
+
+<div class=text-justify>
+
+
+
+# **Video**
+
+<br>
+ 
+
+<video width="640" height="480" controls>
+  <source src="video/completo_v1.5_red.mp4" type="video/mp4">
+</video>
